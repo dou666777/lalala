@@ -6,5 +6,6 @@ public class Test {
         for (int i = 0;i < 2; i++){
             System.out.print("sss")
         }
+        System.out.print("fds")
     }
 }
